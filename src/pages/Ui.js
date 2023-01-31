@@ -92,6 +92,7 @@ const Ui = () => {
     return (
       <>
       
+      <img src="https://media.istockphoto.com/id/1097264586/photo/great-white-pelican-on-the-field-against-the-blue-sky.jpg?b=1&s=170667a&w=0&k=20&c=RD_jIXp6AjQWNqR_xY1-YDMgspjIZpP2EFGK81GTpvc=" />
 
       <motion.div
         initial='init'

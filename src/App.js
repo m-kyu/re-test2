@@ -9,6 +9,9 @@ import Chart from './pages/Chart';
 import { motion, AnimatePresence } from "framer-motion"
 
 function App() {
+
+  
+
   return (
     <BrowserRouter>
       <ResponsiveAppBar/>
