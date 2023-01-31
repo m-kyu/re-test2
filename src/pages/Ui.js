@@ -90,6 +90,9 @@ const Ui = () => {
     };
   
     return (
+      <>
+      
+
       <motion.div
         initial='init'
         animate='play'
@@ -108,6 +111,7 @@ const Ui = () => {
           onClose={handleClose}
         />
       </motion.div>
+      </>
     );
 }
 

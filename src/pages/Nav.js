@@ -121,7 +121,7 @@ function ResponsiveAppBar() {
           </Typography>
           <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
             {pages.map((page) => (
-            <Link component={RouterLink} to={`./#/${page}`}>
+            <Link component={RouterLink} to={`./${page}`}>
               <Button
                 key={page}
                 onClick={handleCloseNavMenu}
